@@ -1,7 +1,7 @@
 # illustrator_scripts
 Scripts for automated illustrator tasks
 
-Since I need scripts to perform Illustrator tasks like globally creating ArtBoards or duplicating art across many ArtBoards. I decided to publish this.
+Since I need scripts to perform Illustrator tasks like globally creating ArtBoards or duplicating art across many ArtBoards. I decided to publish this because I am sick and tired of doing silly code tests.
 
 
 ### Files
